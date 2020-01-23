@@ -3,6 +3,15 @@
 #### Goal
 Provide practical tools to start building trial-level psychological models of behavioral data.
 
+#### Sub-goals / targets (preliminary)
+1. Defining a model
+2. Simulating task data
+3. Fitting actual task data
+4. Posterior predictive checks
+5. Model/parameter recovery
+6. Model comparison
+7. Model types (RL, utility, DDM, etc) – this is more like a bonus. We'll work with models relevant to the group.
+
 #### Getting started
 1. Install latest Python 3.x (not 2.x) using an Anaconda distribution at https://www.anaconda.com/distribution/#download-section. If you already have Anaconda on your computer (of any version), you can skip this step.
 2. Create a Python 3.7 environment called something like 'comp_model' using the command listed on <a href='https://docs.conda.io/projects/conda/en/4.6.0/_downloads/52a95608c49671267e40c689e0bc00ca/conda-cheatsheet.pdf'>this conda cheat sheet</a>.
