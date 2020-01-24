@@ -3,14 +3,15 @@
 #### Goal
 Provide practical tools to start building trial-level psychological models of behavioral data.
 
-#### Sub-goals / targets (preliminary)
-1. Defining a model
-2. Simulating task data
-3. Fitting actual task data
-4. Posterior predictive checks
-5. Model/parameter recovery
-6. Model comparison
-7. Model types (RL, utility, DDM, etc) – this is more like a bonus. We'll work with models relevant to the group.
+#### Sub-goals / targets (will be updated as we go along)
+1. Defining various models for an Ultimatum Game dataset
+2. Simulating task data using the different models
+3. Determining 'model fit' (the similarity between observed data and a model). This will cover least squares, log likelihood, and choice rules.
+4. Fitting a model to task data using gradient descent
+5. Model comparison
+6. Posterior predictive checks
+7. Model/parameter recovery
+8. Model types (RL, utility, DDM, etc) – this is more like a bonus. We'll work with models relevant to the group.
 
 #### Getting started
 1. Install latest Python 3.x (not 2.x) using an Anaconda distribution at https://www.anaconda.com/distribution/#download-section. If you already have Anaconda on your computer (of any version), you can skip this step.
