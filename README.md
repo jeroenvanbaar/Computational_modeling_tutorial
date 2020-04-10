@@ -20,8 +20,9 @@ Provide practical tools to start building trial-level psychological models of be
 4. Create a clean folder for this tutorial, ```cd``` to the folder, and launch a Jupyter Notebook using the command ```jupyter notebook```.
 5. Make a new 'sandbox' notebook and get comfortable with behavioral data analysis in Python by attempting to do the following things: 1) generate some random data in two variables of equal length and make a scatter plot using matplotlib; 2) generate some data for a linear relationship between two variables (e.g. age and height of schoolchildren), put them in a Pandas dataframe with 2 named columns, and use Seaborn to create a scatterplot with regression line; 3) create a Pandas dataframe with height data for 5 age groups and use Seaborn to turn this into a barplot with errorbars and an overlaid stripplot or swarmplot. Google is your friend!
 
-#### Not-required reading
+#### Great preparatory and explanatory reading
 Daw, Nathaniel (2009). Trial-by-trial data analysis using computational models. http://www.princeton.edu/~ndaw/d10.pdf
+Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational modeling of behavioral data. ELife, 8(e49547). https://doi.org/10.31234/OSF.IO/46MBN
 
 #### Other useful tutorials
 Den Ouden, Hanneke & Jill O'Reilly (2015). Models of learning. http://hannekedenouden.ruhosting.nl/RLtutorial/html/dataAnalysisTopPage.html [includes Matlab code]
