@@ -19,6 +19,9 @@ Provide practical tools to start building trial-level psychological models of be
 3. Activate your environment, install the package manager PyPI in it using ```conda install pip```, and then use PyPI to install (at least) the following packages: numpy, pandas, matplotlib, seaborn, scipy, jupyter. PyPI works in the following way: ```pip install <package_name> <package_name> <and so on...>```.
 4. Create a clean folder for this tutorial, ```cd``` to the folder, and launch a Jupyter Notebook using the command ```jupyter notebook```.
 5. Make a new 'sandbox' notebook and get comfortable with behavioral data analysis in Python by attempting to do the following things: 1) generate some random data in two variables of equal length and make a scatter plot using matplotlib; 2) generate some data for a linear relationship between two variables (e.g. age and height of schoolchildren), put them in a Pandas dataframe with 2 named columns, and use Seaborn to create a scatterplot with regression line; 3) create a Pandas dataframe with height data for 5 age groups and use Seaborn to turn this into a barplot with errorbars and an overlaid stripplot or swarmplot. Google is your friend!
+6. Complete the numbered notebooks at your own pace, starting with the 'problems' notebook and checking your work in the 'solutions' counterpart.
+
+Feel free to reach out with questions and comments via <a href='https://twitter.com/jeroen_van_baar'>@jeroen_van_baar</a>.
 
 #### Great preparatory and explanatory reading
 Daw, Nathaniel (2009). Trial-by-trial data analysis using computational models. http://www.princeton.edu/~ndaw/d10.pdf
