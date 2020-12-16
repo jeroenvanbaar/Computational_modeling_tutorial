@@ -1,9 +1,9 @@
-# Computational modeling tutorial
+# Computational modeling tutorial (beta)
 
 #### Goal
 Provide practical tools to start building trial-level psychological models of behavioral data.
 
-#### Sub-goals / targets (will be updated as we go along)
+#### Sub-goals / targets
 1. Defining various models for an Ultimatum Game dataset
 2. Simulating task data using the different models
 3. Determining 'model fit' (the similarity between observed data and a model). This will cover least squares, log likelihood, and choice rules.
@@ -29,3 +29,6 @@ Wilson, R. C., & Collins, A. G. (2019). Ten simple rules for the computational m
 
 #### Other useful tutorials
 Den Ouden, Hanneke & Jill O'Reilly (2015). Models of learning. http://hannekedenouden.ruhosting.nl/RLtutorial/html/dataAnalysisTopPage.html [includes Matlab code]
+
+#### Adding/refining the tutorial
+Feel free to fork the project and submit pull requests to make changes or add modules. Many thanks!
