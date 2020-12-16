@@ -2,3 +2,4 @@ Joey/
 .ipynb_checkpoints/*
 dont_use_data
 Code
+.DS_Store
